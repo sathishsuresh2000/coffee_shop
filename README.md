@@ -15,6 +15,10 @@
     npm run start
   ```
 
+##Postman Configuration
+* Import postman_apis.postman_collection file to access the apis.
+* Follow this link to import into postman - https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-data-into-postman
+
 ## Problem Summary
 * Customers should be able to view available items and order them. They should be notified once the order is ready.
 
