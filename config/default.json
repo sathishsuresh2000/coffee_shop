@@ -1,0 +1,19 @@
+{
+  "server": {
+    "host": "localhost",
+    "port": "3000"
+  },
+  "database": {
+    "host": "host",
+    "dbname": "coffeeshop",
+    "username": "username",
+    "password": "password",
+    "poolOptions": {
+      "min": 0,
+      "max": 10,
+      "acquireTimeoutMillis": 30000,
+      "evictionRunIntervalMillis": 180000,
+      "idleTimeoutMillis": 180000
+    }
+  }
+}
